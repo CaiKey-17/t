@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://autorack.proxy.rlwy.net:10173/railway?useSSL=false&serverTimezone=UTC
+    url: jdbc:mysql://autorack.proxy.rlwy.net:24645/railway?useSSL=false&serverTimezone=UTC
     username: root
-    password: HxYazAHRWEqSGamFuOXFZxZUCRqZqXCh
+    password: lvqCUPNWGvklSlieJDmLYOMCgqhMLghZ
 
   jpa:
     hibernate:
