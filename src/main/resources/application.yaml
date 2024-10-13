@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://autorack.proxy.rlwy.net:10173/railway?useSSL=false&serverTimezone=UTC
+    username: root
+    password: HxYazAHRWEqSGamFuOXFZxZUCRqZqXCh
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+  servlet:
+    multipart:
+      max-file-size: 10MB
+      max-request-size: 10MB
